@@ -1,0 +1,1 @@
+This repository contains a simple C program that showcases how integer division works. The program divides 10 by 5 and prints the result.  This example illustrates basic arithmetic operations in C.
